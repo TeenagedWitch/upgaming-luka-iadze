@@ -4,22 +4,16 @@
     <projectFile profileName="IIS Express">upgaming-luka-iadze.csproj</projectFile>
     <projectFile profileName="upgaming_luka_iadze">upgaming-luka-iadze.csproj</projectFile>
   </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="a57e19ae-922c-43a6-90ee-83e363b42ab9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.upgaming-luka-iadze/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.upgaming-luka-iadze/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.upgaming-luka-iadze/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.upgaming-luka-iadze/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Models/Author.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Models/Book.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Properties/launchSettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appsettings.Development.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appsettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/global.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/upgaming-luka-iadze.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/upgaming-luka-iadze.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/DataStore.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dtos/BookDto.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.upgaming-luka-iadze/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.upgaming-luka-iadze/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/upgaming-luka-iadze.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/upgaming-luka-iadze.csproj" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +24,8 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Data/DataStore.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Dtos/BookDto.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Models/Author.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Models/Book.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -47,11 +43,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    ".NET Launch Settings Profile.upgaming-luka-iadze: IIS Express.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -101,7 +98,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1761496540609</updated>
-      <workItem from="1761496542045" duration="331000" />
+      <workItem from="1761496542045" duration="7665000" />
     </task>
     <servers />
   </component>
